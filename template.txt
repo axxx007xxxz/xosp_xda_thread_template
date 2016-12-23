@@ -1,4 +1,4 @@
-[CENTER][IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/xosp-logo.gif[/IMG]/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/xosp-logo.gif[/IMG][/CENTER]
 
 [code]
 #include 
@@ -22,12 +22,12 @@
 [*][B] What is XOSP and how was it born?[/B]
 [LIST]
 [*] XOSP stands for the Xperia Open Source Project. The project was initially created by me (@nilac) for the Galaxy S+ (my old device) years ago. Back then the ROM was called S+ Reborn. The vision was to create a minimal bloat free ROM which included Sony Xperia specific apps and various tweaks users would expect from a custom ROM.
-S+ Reborn became a success and was eventually ported to different devices so from there I rebranded and XOSP project was founded. I worked on the project for 2 years always trying to improve it. Eventually, Because of the fact Lollipop was buggy on my Galaxy S+ (Which I maintained xosp for at the time) I decided to take a break from development until I got my hands on the zenfone 2 which from there xosp development has continued ever since.
+S+ Reborn became a success and was eventually ported to different devices so from there I rebranded and XOSP project was founded. I worked on the project for 2 years always trying to improve it. Eventually, Because of the fact Lollipop was buggy on my Galaxy S+ (Which I maintained xosp for at the time) I decided to take a break from development until I got my hands on the Zenfone 2 in 2015 and from then I started again the development of XOSP and continued it ever since.
 [/LIST]
-[*][B] Revisions and Releases[/B]
+[*][B]What Represents a Release and what represents a Revision?[/B]
 [LIST]
-Revisions include small changes such as bug fixes/improvments etc.. (there are 5 revisions until a new Release is made)
-Releases are the final "stable" builds with all new planned features implemented and bugs fixed.
+Revisions include small changes such as bug fixes/improvments etc.. (Usually there are made like 3 revisions per-release).
+Releases are the main "stable" builds with all new planned features implemented and bugs fixed.
 [/LIST]
 [/LIST]
 [/SIZE]
@@ -36,89 +36,27 @@ Releases are the final "stable" builds with all new planned features implemented
 
 
 [SIZE="4"]
+[HIDE]
 [LIST]
-[*] Based on CM 13.0
-[*] Removed many unnecessary apps and stuff as well as CM ones
-[*] StatusBar Clock font style
-[*] StatusBar Clock font size
-[*] Added StatusBar Date & style options 
-[*] Added option for date style/position, left-right of clock
-[*] Xperia Z5 inspired LockScreen style
-[*] Xperia Fonts
-[*] Xperia Battery Text prototype
-[*] Time Contextual Headers
-[*] XOSP Universal dialog for Shutdown/Reboot and Dexopting Process
-[*] XOSPOTA
-[*] Stock Kernel
-[*] Snap Camera
-[*] ViPER Audio Engine 
-[*] Theme Chooser
-[*] Xperia based Bootanimation
-[*] Custom Framework and SystemUI Xperia drawables
-[*] XOSPFileManager 
-[*] Xperia Z5 sounds
-[*] Xperia X Wallpapers
-[*] XOSPSetupWizard
-[*] Custom Materialized
-[*] Stock Browser is custom themed
-[*] Contacts is custom themed (Much more Xperia Style)
-[*] Dialer is custom themed (Much more Xperia Style)
-[*] Status bar logo 
-[*] Navigation Bar ON/OFF
-[*] NavBar dimensions 
-[*] SlimDim
-[*] HW Keys ON/OFF
-[*] SlimSeek Bar
-[*] Status bar Network Traffic indicator
-[*] RAM Bar in recents options
-[*] Toast Animations
-[*] Long Press back to kill in Development Settings
-[*] Ability to hide the Super SU status bar icon
-[*] Dashboard Columns
-[*] Dashboard double lines toggle
-[*] Double Tap to sleep anywhere on the lockscreen
-[*] On-the-go Mode
-[*] Double tap to sleep on navigation bar
-[*] SystemApp remover
-[*] Omni inbuilt SystemUI Screen recording
-[*] SuperSU
-[*] 
-[*] Xperia Apps
+[*] You can find all the included features right:
 [LIST]
-
-
-[*] Xperia Z5 Home app
-[*] Album App
-[*] PhotoEditor
-[*] PhotoAnalyzer
-[*] Xperia Keyboard (aka textinput-tng)
-[*] Music (former WALKMAN)
-[*] Video
-[*] SemCalendar
-[*] AudioRecorder (Material Version)
-[*] ClockWidgets
-[*] Sketch
-[*] SmartConnect
-[*] WallpaperPicker (For Xperia X custom wallpapers)
-[*] Weather App
-[*] Wheater Widget
-[*] Walkman Widget
-[*] Track ID
-[*] SomcPodcast
-[*] SemcDLNA
+[*][URL="https://github.com/XOSP-Project/android_vendor_xosp/blob/xosp-n/xosp_features.mkdn"]Here[/URL]
 [/LIST]
 [/LIST]
+[/HIDE]
 [/SIZE]
 
 [IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/bugs_banner.png[/IMG]
 
 [SIZE="4"]
+[HIDE]
 [LIST]
-[*][STRIKE] Alarm Clock is not working with stock Xperia Clock so you will need to use a third party app[/STRIKE]
-[*] [STRIKE]In Snap Camera when you want to access the taken photos the app will crash, this issue will be fixed in the RL3 Revision 2[/STRIKE]
-[*] [STRIKE] When you apply a wallpaper the phone will soft reboot itself but the wallpaper will be set eventually[/STRIKE]
-[*] [STRIKE]Calendar may force close when you configure for the first time the phone, which means when you make a clean install [/STRIKE]
-[/LIST]  
+[*] You can find the list of current issues in the ROM right:
+[LIST]
+[*][URL="https://github.com/XOSP-Project/android_vendor_xosp/blob/xosp-n/xosp_issues.mkdn"]Here[/URL]
+[/LIST]
+[/LIST]
+[/HIDE]
 [/SIZE]
 
 
@@ -127,6 +65,7 @@ Releases are the final "stable" builds with all new planned features implemented
 
 <!-- Your Installation process -->
 <!-- This is an example for Zenfone 2 device -->
+
 [B]First time installing XOSP on your Zenfone 2, or coming from another ROM?[/B]
 [LIST]
 [*] Make sure your Bootloader is unlocked and you're running the latest TWRP from [URL="http://forum.xda-developers.com/zenfone2/development/z00az008-zenfone-2-t3265236"]Here[/URL]
@@ -135,59 +74,59 @@ Releases are the final "stable" builds with all new planned features implemented
 [*] Wipe data factory reset
 [*] Flash latest XOSP
 [*] Flash GApps
-[*] Flash XOSPApps
+[*] Flash XOSPApps (Optional)
 [*] Reboot
 [/LIST]
 
 <!-- Your Upgrading process -->
 <!-- This is an example for Zenfone 2 device -->
-[B]Upgrading from earlier release or revision of XOSP:[/B]
 
+[B]Upgrading from earlier release or revision of XOSP:[/B]
 [LIST]
 [*] Reboot recovery
 [*] Flash latest XOSP
 [*] Flash GApps if necessary
-[*] Flash XOSPApps
+[*] Flash XOSPApps (Optional)
 [*] Wipe cache and dalvik
 [*] Reboot
 [/LIST]
 
-[B]I'll not support users and answer questions from users which:[/B]
-
-- Are running a custom kernel
-- Have flashed mods
-- Modified system files
-- Didn't follow proper instructions
-- Have not read through the thread to see if their question/issue has already been addressed
 
 [IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/links_banner.png[/IMG]
 
 [SIZE=4] 
 [LIST]
-[*] [URL="http://xosp-project.github.io/"]Visit our website ![/URL]
-[*] [URL="https://plus.google.com/u/0/communities/117671498272072664538"]Join our community on G+ ![/URL]
-[*] [URL="https://telegram.me/xosp_channel"]Follow up my latest news on the Official Telegram channel![/URL]
-[*] [URL="https://github.com/XOSP-Project/platform_manifest"]Compile XOSP for your device ![/URL]
-[*] [URL="https://github.com/XOSP-Project"]ROM sources[/URL]
+[*] [URL="http://xosp.org"]XOSPSite[/URL]
+[*] [URL="http://downloads.xosp.org"]XOSP DownloadCenter[/URL]
+[*] [URL="http://jenkins.xosp.org"]XOSP Jenkins Server[/URL]
+[*] [URL="https://github.com/XOSP-Project"]XOSP Sources[/URL]
+[*] [URL="https://github.com/XOSP-Devices"]XOSP Devices Sources[/URL]
+[*] [URL="https://github.com/XOSP-Project/platform_manifest"]Build XOSP for your device![/URL]
+[*] [URL="https://plus.google.com/u/0/communities/117671498272072664538"]G+ Community[/URL]
+[*] [URL="https://www.facebook.com/xosprom/"]FB Page[/URL]
+[*] [URL="https://telegram.me/xosp_channel"]XOSP Channel on Telegram[/URL]
+[*] [URL="https://telegram.me/joinchat/B3ox3EEW_NYdk-l4WUgvTg"]XOSP Community Group on Telegram[/URL]
 [/LIST]
 [/SIZE]
 
 [IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/downloads_banner.png[/IMG]
 
 <!-- Example of download section -->
+
 [SIZE=4]
 [LIST]
 [*] Z00A
 [LIST]
-[*][URL="https://goo.gl/zr3qMy"]Z00A XOSP Builds on Basketbuild[/URL]
+[*][URL="http://downloads.xosp.org"]Z00A XOSP Builds on XOSP DownloadCenter[/URL]
 [/LIST]
 [*] Z008
 [LIST]
-[*][URL="https://goo.gl/WEOsnW"]Z008 XOSP Builds on Basketbuild[/URL]
+[*][URL="http://downloads.xosp.org"]Z008 XOSP Builds on XOSP DownloadCenter[/URL]
 [/LIST]
-<!-- For XOSPApps Don't mirror builds or modify these ones then release as your own! -->
-[*][URL="https://basketbuild.com/devs/XOSP/XOSPApps"]XOSPApps[/URL]
-[*] [URL="https://github.com/XOSP-Project/android_vendor_reborn/blob/RL3/README.mkdn"]ChangeLOG[/URL]
+
+<!-- DON'T TRY TO MIRROR XOSPAPPS RELEASES ON YOUR OWN. ALWAYS USE THE ORIGINAL LINK FROM THE SITE -->
+
+[*][URL="http://downloads.xosp.org"]XOSPApps[/URL]
 [*] [URL="http://opengapps.org/"]GApps[/URL] (I suggest you to use the Nano package)
 [/LIST]
 [/SIZE]
@@ -197,8 +136,10 @@ Releases are the final "stable" builds with all new planned features implemented
 
 [SIZE=4]
 [LIST]
+
 <!-- Links for the sources you used to build the ROM -->
 <!-- This is an example for the Zenfone 2 Device -->
+
 [*] [URL="https://github.com/XOSP-Project"]ROM sources[/URL]
 [*] [URL="https://github.com/XOSP-Project-Devices"]ROM devices sources[/URL]
 [*] [URL="https://github.com/XOSP-Project-Devices/android_device_asus_Z00A"]Device: Asus Z00A sources[/URL]
@@ -215,9 +156,11 @@ Releases are the final "stable" builds with all new planned features implemented
 [SIZE=4]
 [LIST]
 [*] @nilac and XOSP Team
-[*] CM for the base sources
-[*] Sony Xperia Community
-[*] @malybru for the banner :cool:
-[*] nightwalkerkg for the logo :cool:
+[*] CyanogenMod for the base sources
+[*] Sony and the Xperia Community
+[*] Resurrection Remix Team
+[*] AICP Team
+[*] @malybru for the XOSP banner
+[*] Mihir Mistry for the XOSP logo
 [/LIST]
 [/SIZE]
