@@ -40,7 +40,7 @@ Releases are the main "stable" builds with all new planned features implemented 
 [LIST]
 [*] You can find all the included features right:
 [LIST]
-[*][URL="https://github.com/XOSP-Project/android_vendor_xosp/blob/xosp-n/xosp_features.mkdn"]Here[/URL]
+[*][URL="https://github.com/XOSP-Project/android_vendor_xosp/blob/xosp-n/README.mkdn"]Here[/URL]
 [/LIST]
 [/LIST]
 [/HIDE]
@@ -53,7 +53,7 @@ Releases are the main "stable" builds with all new planned features implemented 
 [LIST]
 [*] You can find the list of current issues in the ROM right:
 [LIST]
-[*][URL="https://github.com/XOSP-Project/android_vendor_xosp/blob/xosp-n/xosp_issues.mkdn"]Here[/URL]
+[*][URL="https://github.com/XOSP-Project/android_vendor_xosp/blob/xosp-n/README.mkdn"]Here[/URL]
 [/LIST]
 [/LIST]
 [/HIDE]
