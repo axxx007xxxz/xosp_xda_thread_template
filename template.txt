@@ -156,7 +156,7 @@ Releases are the main "stable" builds with all new planned features implemented 
 [SIZE=4]
 [LIST]
 [*] @nilac and XOSP Team
-[*] CyanogenMod for the base sources
+[*] Lineage OS for the base sources
 [*] Sony and the Xperia Community
 [*] Resurrection Remix Team
 [*] AICP Team
