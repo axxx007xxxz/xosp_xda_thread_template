@@ -141,12 +141,12 @@ Releases are the main "stable" builds with all new planned features implemented 
 <!-- This is an example for the Zenfone 2 Device -->
 
 [*] [URL="https://github.com/XOSP-Project"]ROM sources[/URL]
-[*] [URL="https://github.com/XOSP-Project-Devices"]ROM devices sources[/URL]
-[*] [URL="https://github.com/XOSP-Project-Devices/android_device_asus_Z00A"]Device: Asus Z00A sources[/URL]
-[*] [URL="https://github.com/XOSP-Project-Devices/android_device_asus_Z008"]Device: Asus Z008 sources[/URL]
-[*] [URL="https://github.com/XOSP-Project-Devices/android_device_asus_mofd-common"]Device-common: Asus mofd sources[/URL]
-[*] [URL="https://github.com/XOSP-Project-Devices/android_kernel_asus_moorefield"]Kernel: Asus moorefield sources[/URL]
-[*] [URL="https://github.com/XOSP-Project-Devices/proprietary_vendor_asus"]Vendor: Asus propietary [/URL]
+[*] [URL="https://github.com/XOSP-Devices"]ROM devices sources[/URL]
+[*] [URL="https://github.com/XOSP-Devices/android_device_asus_Z00A"]Device: Asus Z00A sources[/URL]
+[*] [URL="https://github.com/XOSP-Devices/android_device_asus_Z008"]Device: Asus Z008 sources[/URL]
+[*] [URL="https://github.com/XOSP-Devices/android_device_asus_mofd-common"]Device-common: Asus mofd sources[/URL]
+[*] [URL="https://github.com/XOSP-Devices/android_kernel_asus_moorefield"]Kernel: Asus moorefield sources[/URL]
+[*] [URL="https://github.com/XOSP-Devices/proprietary_vendor_asus"]Vendor: Asus propietary [/URL]
 [/LIST]
 [/SIZE]
 
