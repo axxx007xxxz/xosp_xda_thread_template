@@ -19,15 +19,14 @@
 
 [SIZE="4"]
 [LIST]
-[*][B] What is XOSP and how was it born?[/B]
+[*][B] What is XOSP?[/B]
 [LIST]
-[*] XOSP stands for the Xperia Open Source Project. The project was initially created by me (@nilac) for the Galaxy S+ (my old device) years ago. Back then the ROM was called S+ Reborn. The vision was to create a minimal bloat free ROM which included Sony Xperia specific apps and various tweaks users would expect from a custom ROM.
-S+ Reborn became a success and was eventually ported to different devices so from there I rebranded and XOSP project was founded. I worked on the project for 2 years always trying to improve it. Eventually, Because of the fact Lollipop was buggy on my Galaxy S+ (Which I maintained xosp for at the time) I decided to take a break from development until I got my hands on the Zenfone 2 in 2015 and from then I started again the development of XOSP and continued it ever since.
+[*] XOSP is an after-market firmware based on CodeAuroraSources (CAF) destinated for a wide range of Android phones. The name stands for the Xperia Open Source Project and the project was initially created by @nilac for the Galaxy S+ (his old device) years ago when back then the ROM was called S+ Reborn. The vision was to create a minimal bloat free ROM which included Sony Xperia specific apps and various tweaks users would expect from a custom ROM.
+S+ Reborn became a success and was eventually ported to different devices so from there it was rebranded to XOSP. Calin worked on the project for 2 years always trying to improve it. Eventually, Because of the fact Lollipop was buggy on his Galaxy S+, he decided to take a break from development until he got his hands on the Zenfone 2 in 2015 and from then he started again the development of XOSP and continued it ever since.
 [/LIST]
-[*][B]What Represents a Release and what represents a Revision?[/B]
+[*][B]How do we release updates?[/B]
 [LIST]
-Revisions include small changes such as bug fixes/improvments etc.. (Usually there are made like 3 revisions per-release).
-Releases are the main "stable" builds with all new planned features implemented and bugs fixed.
+We release new updates for our Official devices each week by providing Delta updates to the users,so maintainers of the other devices can do the same as well if they want to keep up with the changes. We will make full zip releases only once a month except special cases like for example XOSPDelta is not working or something like it. 
 [/LIST]
 [/LIST]
 [/SIZE]
@@ -104,8 +103,8 @@ Releases are the main "stable" builds with all new planned features implemented 
 [*] [URL="https://github.com/XOSP-Project/platform_manifest"]Build XOSP for your device![/URL]
 [*] [URL="https://plus.google.com/u/0/communities/117671498272072664538"]G+ Community[/URL]
 [*] [URL="https://www.facebook.com/xosprom/"]FB Page[/URL]
-[*] [URL="https://telegram.me/xosp_channel"]XOSP Channel on Telegram[/URL]
-[*] [URL="https://telegram.me/joinchat/B3ox3EEW_NYdk-l4WUgvTg"]XOSP Community Group on Telegram[/URL]
+[*] [URL="https://t.me/xosp_channel"]XOSP Channel on Telegram[/URL]
+[*] [URL="https://t.me/XOSPCommunity"]XOSP Community Group on Telegram[/URL]
 [/LIST]
 [/SIZE]
 
@@ -156,10 +155,8 @@ Releases are the main "stable" builds with all new planned features implemented 
 [SIZE=4]
 [LIST]
 [*] @nilac and XOSP Team
-[*] Lineage OS for the base sources
+[*] CodeAuroraSources
 [*] Sony and the Xperia Community
-[*] Resurrection Remix Team
-[*] AICP Team
 [*] @malybru for the XOSP banner
 [*] Mihir Mistry for the XOSP logo
 [/LIST]
