@@ -52,7 +52,7 @@ We release new updates for our Official devices each week by providing Delta upd
 [LIST]
 [*] You can find the list of current issues in the ROM right:
 [LIST]
-[*][URL="https://github.com/XOSP-Project/android_vendor_xosp/blob/xosp-n/README.mkdn"]Here[/URL]
+[*][URL="https://github.com/XOSP-Project/android_vendor_xosp/blob/xosp-n-rebase/README.mkdn"]Here[/URL]
 [/LIST]
 [/LIST]
 [/HIDE]
