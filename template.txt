@@ -76,21 +76,14 @@ S+ Reborn became a success and was eventually ported to different devices so fro
 [IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/downloads_banner.png[/IMG]
 
 
-[SIZE=4][LIST][*][URL="http://downloads.xosp.org"]lux XOSP Builds on XOSP DownloadCenter[/URL][/LIST]
-
+[SIZE=4][LIST][*][URL="http://downloads.xosp.org"]lux XOSP Builds on XOSP DownloadCenter[/URL]
 [*] [URL="http://downloads.xosp.org"]XOSPApps[/URL]
 [*] [URL="http://opengapps.org/"]GApps[/URL] (I suggest you to use the Nano package)[/LIST][/SIZE]
 
 
 [IMG]https://raw.githubusercontent.com/XOSP-Project/xda_thread_template/master/banner_images/sources_banner.png[/IMG]
 
-[SIZE=4]
-[LIST]
-
-<!-- Links for the sources you used to build the ROM -->
-<!-- This is an example for the Zenfone 2 Device -->
-
-[*] [URL="https://github.com/XOSP-Project"]ROM sources[/URL]
+[SIZE=4][LIST][*] [URL="https://github.com/XOSP-Project"]ROM sources[/URL]
 [*] [URL="https://github.com/XOSP-Devices"]ROM devices sources[/URL]
 [*] [URL="https://github.com/XOSP-Devices/android_device_motorola_lux"]Motorola lux device tree[/URL]
 [*] [URL="https://github.com/XOSP-Devices/android_device_motorola_msm8916-common"]Motorola MSM8916 common device tree[/URL]
